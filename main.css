@@ -1,0 +1,16 @@
+html {
+    font-size: 22px;
+}
+body {
+    background-color: rgb(46, 46, 46);
+    color: aliceblue;
+}
+a {
+    color: rgb(118, 229, 229);
+}
+a:visited {
+    color: rgb(142, 142, 142);
+}
+a:hover {
+    color: yellow;
+}
